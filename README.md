@@ -14,7 +14,7 @@ Code
 
 
 ## Author
- Abhay Singh Tomar
+ Abhay Singh Tomar | 
  Pursuing B.Tech in Artificial Intelligence and Data Science | Python Learner
 
  ...
